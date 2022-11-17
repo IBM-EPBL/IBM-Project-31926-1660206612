@@ -10,6 +10,9 @@ If the gesture predictes is 1 then images is blurred;2, image is resized;3,image
 
 TEAM MEMBERS
 KALPIKA K(TEAM LEAD)
+
 KALAPOORANI P
+
 HIBA MARIAM H
+
 HEMALATHA J
