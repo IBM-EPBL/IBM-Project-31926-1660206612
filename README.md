@@ -9,6 +9,7 @@ The image of the gesture captured in the video frame is compared with  the Pre-t
 If the gesture predictes is 1 then images is blurred;2, image is resized;3,image is rotated etc.
 
 TEAM MEMBERS
+
 KALPIKA K(TEAM LEAD)
 
 KALAPOORANI P
