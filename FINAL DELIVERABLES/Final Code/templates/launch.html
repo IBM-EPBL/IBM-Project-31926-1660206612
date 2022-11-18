@@ -56,7 +56,7 @@
 
   body
   {
-      background-image: url("https://img3.goodfon.com/wallpaper/nbig/a/af/ruki-znaki-steny.jpg");
+      background-image: url("https://www.businessinsider.in/thumb/msid-66990434,width-700,height-525,imgsize-70168/the-v-sign-represents-peace-.jpg");
       background-size: cover;
   }
   
@@ -67,15 +67,15 @@
         left: 0px;
         right: 0px;
         position: fixed;
-        background-color: rgb(10, 102, 109) ;
-        color: black;
-        box-shadow: 0px 8px 4px grey;
+        background-color:#1d2634;
+        color:rgb(181, 228, 236)k;
+        box-shadow: 0px 8px 4px  #1d2634;
         overflow: hidden;
-        padding-left:20px;
-        font-family: 'Josefin Sans';
+        padding-left:5px;
+        font-family: 'Times New Roman';
         font-size: 2vw;
         width: 100%;
-        height:8%;
+        height:15%;
         text-align: center;
       }
       .topnav {
@@ -93,13 +93,13 @@
   }
   
   .topnav-right a.active {
-    background-color: #07201e;
+    background-color: #1d2634;
     color: rgb(238, 226, 234);
   }
 
   .topnav-right a:hover {
-    background-color: rgb(181, 228, 236);
-    color: rgb(6, 27, 36);
+    background-color: #263043;
+    color: white;
   }
   
   
@@ -196,6 +196,11 @@
     padding-left: 30px;  
     
   }
+  .new
+  {
+    background-color: #f44336;
+    height:10%;
+  }
   .login{
     margin:80px;
     box-sizing: content-box;  
@@ -243,7 +248,7 @@
   }
   
   .active {
-    background-color: #267481;
+    background-color: white;
   }
   
   /* Fading animation */
@@ -274,28 +279,28 @@
   
   <body>
   <div class="header">    
-  <div style="width:50%;float:left;font-size:2vw;text-align:left;color:#c1e2d9; padding-top:1%;padding-left:5%;">Hand Gesture System</div>
+  <div style="width:50%;float:left;font-size:2vw;text-align:left;color:#c1e2d9; padding-top:1%;padding-left:5%;">GESTURE BASED TOOL FOR STERLINE BROWSING OF RADIOLOGY IMAGES</div>
     <div class="topnav-right"style="padding-top:0.5%;">
       
       <a class="active" href="{{ url_for('home')}}">Home</a>
       <a class="active" href="{{ url_for('intro')}}">Introduction</a>
-      <a class="active" href="{{ url_for('image1')}}"><u>Launch</u></a>
+      <a class="active" href="{{ url_for('image1')}}"><u>Predict</u></a>
     </div>
   </div>
   <br>
   
-    <div1 style =""><h1><font color="Black" size="6" font-family="Roboto">Hand Gesture Recognition</h1><br>
-    <p><i><font color="Black" size="4" fonr-family="sans-serif"></i>Provide an image for which you want to perform various operations</p>
+    <div1 style =""><h1><font color="Black" size="6" font-family="Roboto">TRANSFORMATION OF IMAGES,MADE EASY !</h1><br>
+    <p><i><font color="Black" size="4" fonr-family="sans-serif"></i>Please upload an image for which you would like to perform various operations</p>
     <br>
           <div>
-            <h4>Upload Image Here</h4>
+            <h4>Upload Your Image Here</h4>
         <form action = "http://localhost:5000/" id="upload-file" method="post" enctype="multipart/form-data">
-          <label for="imageUpload" class="upload-label">
-            Choose...
+          <label for="imageUpload" class="new">
+            Choose image
           </label>
           <input type="file" name="image" id="imageUpload" accept=".png, .jpg, .jpeg,.pdf">
         </form>
-              <center>
+      <center>
         <div class="image-section" style="display:none;">
           <div class="img-preview">
             <div id="imagePreview">

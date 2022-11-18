@@ -13,15 +13,15 @@
 			left: 0px;
 			right: 0px;
 			position: fixed;
-			background-color: rgb(10, 102, 109) ;
+			background-color: #1d2634  ;
 			color: white;
-			box-shadow: 0px 8px 4px grey;
+			box-shadow: 0px 8px 4px #1d2634;
 			overflow: hidden;
-			padding-left:20px;
-			font-family: 'Josefin Sans';
+			padding-left:5px;
+			font-family: 'Times New Roman';
 			font-size: 2vw;
 			width: 100%;
-			height:8%;
+			height:15%;
 			text-align: center;
 		}
 		.topnav {
@@ -39,26 +39,26 @@
 }
 
 .topnav-right a.active {
-  background-color: #07201e;
+  background-color: #1d2634;
   color: rgb(238, 226, 234);
 }
 
 .topnav-right a:hover {
-  background-color: rgb(181, 228, 236);
-  color: rgb(6, 27, 36);
+  background-color:  #263043;
+  color: white;
 }
 
 .topnav-right {
   float: right;
-  padding-right:100px;
+  padding-right:165x;
 }
 
 body {
 
-  /* background-color: ; */
+  background-color: #263043 ;
   background-repeat: no-repeat;
   background-size:cover;
-  background-image: url("https://i.pinimg.com/originals/b2/1d/c6/b21dc69346915015bc4e19bd502f401b.gif");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGbQtbFCyxnw4WTUPZuN3xFcLVmMox9IaMTA&usqp=CAU");
     background-size: cover;
   background-position: 0px 0px;
   }
@@ -243,7 +243,8 @@ h1 {
   max-width: 90ch;
   text-align: center;
   transform: scale(0.94);
-  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+  color:black;
+  animation : scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
 }
 @keyframes scale {
   100% {
@@ -362,24 +363,31 @@ span:nth-child(23) {
 
 </style>
 
-<body>
-  <h1>INTRODUCTION</h1>
+<body><br><br>
+  <h1>GUIDELINES FOR GESTURES</h1>
 <h1>
-  <span> Hand Gesture </span> <span> recognition system </span> <span> provides us </span > <span> an innovative,</span> <span>natural,</span> <span>  user friendly </span> <span> way of interaction </span > <span> with the computer</span>
-  <span> which is more </span> <span> familiar to the </span> <span>human beings. </span > <span> In our project, </span> <span> the hand region </span> <span> is extracted from </span> <span> the background  </span > <span> by using</span>
+  <span> Humans are able to recognize body and sign language easily. This is possible due to the combination of vision and synaptic interactions that were formed along brain development . In this project ,First the model is pre trained on the images of different hand gestures, such as a showing numbers with fingers as 1 ,2,3,4 . This model uses the integrated webcam to capture the video frame. The image of the gesture captured in the video frame is compared with the Pre-trained model and the gesture is identified. If the gesture predictes</span> <br>
+ <span>0 then Rectangle operation is performed</span><br>
+ <span>1,4 is  used for fixed resizing of image</span><br>
+ <span>2 is used to rotate the radiology image</span><br>
+ <span>3 makes the input image to be blurred</span><br>
+ <span>5 gives a gray scale version of image</span><br>
+  <!-- 1 stands for fixed resizing,2 rotates the image,3 makes the image blurred,5 causes gray scale</span>  -->
+  <!-- <span> recognition system </span> <span> provides us </span > <span> an innovative,</span> <span>natural,</span> <span>  user friendly </span> <span> way of interaction </span > <span> with the computer</span> -->
+  <!-- <span> which is more </span> <span> familiar to the </span> <span>human beings. </span > <span> In our project, </span> <span> the hand region </span> <span> is extracted from </span> <span> the background  </span > <span> by using</span>
 <span> Region of intrest. </span> <span> Then, </span> <span> we will be </span > <span>predicting the labels </span> <span> based on the </span> <span> CNN trained model weights  </span> <span> of hand gestures </span > <span> using that predicted labels</span>
-<span> we apply if conditions </span> <span> to control some of the actions </span> <span>like </span > <span>reshaping , blur, flip of the given image.</span>
+<span> we apply if conditions </span> <span> to control some of the actions </span> <span>like </span > <span>reshaping , blur, flip of the given image.</span> -->
 
 </h1>
 <!--Brian Tracy-->
 
 <div class="header">    
-<div style="width:50%;float:left;font-size:2vw;text-align:left;color:#c1e2d9; padding-top:1%;padding-left:5%;">Hand Gesture System</div>
+<div style="width:50%;float:left;font-size:2vw;text-align:left;color:#c1e2d9; padding-top:1%;padding-left:2%;">GESTURE BASED TOOL FOR STERILE BROWSING RADIOLOGY IMAGES</div>
   <div class="topnav-right"style="padding-top:0.5%;">
     
     <a class="active" href="{{ url_for('home')}}">Home</a>
-    <a class="active" href="{{ url_for('intro')}}"><u>Introduction</u></a>
-    <a class="active" href="{{ url_for('image1')}}">Launch</a>
+    <a class="active" href="{{ url_for('intro')}}"><u>Intro</u></a>
+    <a class="active" href="{{ url_for('image1')}}">Predict</a>
   </div>
 </div>
 </body>
