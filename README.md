@@ -45,6 +45,4 @@ HEMALATHA J
 ![image](https://user-images.githubusercontent.com/69431196/202852766-e6fae6e7-6f40-4941-8a57-4d43479df06c.png)
 ![image](https://user-images.githubusercontent.com/69431196/202852791-34209960-02ee-4159-adde-f4c4d889f339.png)
 
-![image](https://user-images.githubusercontent.com/69431196/202852786-755895a8-7698-42a2-9c7f-986cbe7a5583.png)
-
 
