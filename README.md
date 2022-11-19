@@ -18,7 +18,7 @@ This model uses the integrated webcam to capture the video frame.
 The image of the gesture captured in the video frame is compared with  the Pre-trained model and the gesture is identified.
 If the gesture predictes is 1 then images is blurred;2, image is resized;3,image is rotated etc.
 
-### DETAILS 
+### TEAM DETAILS 
 
 TEAM ID- PNT2022TMID15252
 
@@ -41,4 +41,6 @@ HEMALATHA J
  FLASK FOLDERS
 
  DATASET LINK
+ 
+ ### OUPUT SCREENSHOTS
 
