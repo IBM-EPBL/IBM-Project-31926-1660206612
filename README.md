@@ -46,3 +46,16 @@ HEMALATHA J
 ![image](https://user-images.githubusercontent.com/69431196/202852791-34209960-02ee-4159-adde-f4c4d889f339.png)
 
 
+BLUR OPERATION
+![image](https://user-images.githubusercontent.com/69431196/202852860-339d54ee-861d-43c2-ae11-0af9847593d1.png)
+
+OPENCV GRAY SCALE
+![image](https://user-images.githubusercontent.com/69431196/202852876-bdc2cf12-58a2-4b88-9f18-ccc3295caff4.png)
+
+RESIZING
+![image](https://user-images.githubusercontent.com/69431196/202852910-87f596d6-dd15-435f-8b44-66b2f85bf159.png)
+
+ROTATION
+![image](https://user-images.githubusercontent.com/69431196/202852923-554d1a30-424b-479c-accd-bc9134034674.png)
+
+
