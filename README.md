@@ -1,8 +1,9 @@
 # IBM-Project-31926-1660206612
 ### PROBLEM TITLE 
 A Gesture-based Tool for Sterile Browsing of Radiology Images
-### LANGUAGES USED
-![image](https://user-images.githubusercontent.com/69431196/202851699-3aebf4eb-6293-4c4c-a553-6e3f77eb7614.png) ![image](https://user-images.githubusercontent.com/69431196/202851600-9f4614d0-6e20-4cb0-bdf8-cd789bf2c4c4.png)
+### LANGUAGES AND TOOLS USED
+![image](https://user-images.githubusercontent.com/69431196/202851699-3aebf4eb-6293-4c4c-a553-6e3f77eb7614.png) ![image](https://user-images.githubusercontent.com/69431196/202851779-32709e62-b4df-4b83-8d3d-01dfd02a380d.png)
+ ![image](https://user-images.githubusercontent.com/69431196/202851600-9f4614d0-6e20-4cb0-bdf8-cd789bf2c4c4.png)
 
 
 ### ARCHITECTURE
