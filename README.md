@@ -34,11 +34,9 @@ HEMALATHA J
 
 ### LINKS
 
- YOUTUBE VIDEO DEMONSTRATION LINK  https://youtu.be/GrOkK_lpmcU
+ YOUTUBE VIDEO DEMONSTRATION LINK - https://youtu.be/GrOkK_lpmcU
 
- GITHUB LINK
-
- FLASK FOLDERS
+ GITHUB LINK- https://github.com/IBM-EPBL/IBM-Project-31926-1660206612
 
  DATASET LINK https://drive.google.com/drive/folders/1aYSdlh3TG8u_Mj7GME9dZMkBeWNAbMKK?usp=sharing
  
