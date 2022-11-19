@@ -1,6 +1,9 @@
 # IBM-Project-31926-1660206612
 ### PROBLEM TITLE 
 A Gesture-based Tool for Sterile Browsing of Radiology Images
+### ARCHITECTURE
+![image](https://user-images.githubusercontent.com/69431196/202851549-6a6a5911-c316-45e0-9635-4ed1eec197e3.png)
+
 
 ### INTRODUCTION
 Humans are able to recognize body and sign language easily.
