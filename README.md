@@ -2,7 +2,7 @@
 ### PROBLEM TITLE 
 A Gesture-based Tool for Sterile Browsing of Radiology Images
 ### LANGUAGES AND TOOLS USED
-![image](https://user-images.githubusercontent.com/69431196/202851699-3aebf4eb-6293-4c4c-a553-6e3f77eb7614.png) ![image](https://user-images.githubusercontent.com/69431196/202851898-cd27f7a2-e79d-4d04-861e-c9df29e06d85.png) ![image](https://user-images.githubusercontent.com/69431196/202851600-9f4614d0-6e20-4cb0-bdf8-cd789bf2c4c4.png)
+![image](https://user-images.githubusercontent.com/69431196/202851699-3aebf4eb-6293-4c4c-a553-6e3f77eb7614.png) ![image](https://user-images.githubusercontent.com/69431196/202851946-c9d3900d-808c-4593-8d3b-d2e6ee35e52e.png) ![image](https://user-images.githubusercontent.com/69431196/202851600-9f4614d0-6e20-4cb0-bdf8-cd789bf2c4c4.png)
 
 
 ### ARCHITECTURE
