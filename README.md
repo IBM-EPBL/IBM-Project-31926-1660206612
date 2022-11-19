@@ -41,21 +41,22 @@ HEMALATHA J
  DATASET LINK https://drive.google.com/drive/folders/1aYSdlh3TG8u_Mj7GME9dZMkBeWNAbMKK?usp=sharing
  
  ### SCREENSHOTS
+ ## PREDICTION OF GESTURE
+ ![image](https://user-images.githubusercontent.com/69431196/202853056-4283df78-5f93-471d-9ed8-00890641b016.png)
+ 
+ ## USER INTERFACE
  ![image](https://user-images.githubusercontent.com/69431196/202852754-c97af786-dda0-42b4-af8f-005222858aff.png)
 ![image](https://user-images.githubusercontent.com/69431196/202852766-e6fae6e7-6f40-4941-8a57-4d43479df06c.png)
 ![image](https://user-images.githubusercontent.com/69431196/202852791-34209960-02ee-4159-adde-f4c4d889f339.png)
 
+## BLUR OPERATION
+![image](https://user-images.githubusercontent.com/69431196/202852972-8c714cc0-07ff-4698-bd44-9e0ce1b19a27.png)
 
-BLUR OPERATION
-![image](https://user-images.githubusercontent.com/69431196/202852860-339d54ee-861d-43c2-ae11-0af9847593d1.png)
-
-OPENCV GRAY SCALE
-![image](https://user-images.githubusercontent.com/69431196/202852876-bdc2cf12-58a2-4b88-9f18-ccc3295caff4.png)
-
-RESIZING
-![image](https://user-images.githubusercontent.com/69431196/202852910-87f596d6-dd15-435f-8b44-66b2f85bf159.png)
-
-ROTATION
-![image](https://user-images.githubusercontent.com/69431196/202852923-554d1a30-424b-479c-accd-bc9134034674.png)
+## OPENCV GRAY SCALE
+![image](https://user-images.githubusercontent.com/69431196/202853000-d6a02aed-dd32-4ff5-af5a-03546c533e31.png)
+## RESIZING
+![image](https://user-images.githubusercontent.com/69431196/202853071-595b38f8-5917-43ae-b1fc-9f69f6f661b5.png)
+## ROTATION
+![image](https://user-images.githubusercontent.com/69431196/202852990-4aca01f3-1289-4019-a340-ff4e3bf8ba8b.png)
 
 
