@@ -4,11 +4,6 @@ A Gesture-based Tool for Sterile Browsing of Radiology Images
 ### LANGUAGES  USED
 ![image](https://user-images.githubusercontent.com/69431196/202851699-3aebf4eb-6293-4c4c-a553-6e3f77eb7614.png)![image](https://user-images.githubusercontent.com/69431196/202851600-9f4614d0-6e20-4cb0-bdf8-cd789bf2c4c4.png)
 
-
-### ARCHITECTURE
-![image](https://user-images.githubusercontent.com/69431196/202851549-6a6a5911-c316-45e0-9635-4ed1eec197e3.png)
-
-
 ### INTRODUCTION
 Humans are able to recognize body and sign language easily.
 This is possible due to the combination of vision and synaptic interactions that were formed along brain development . 
@@ -17,6 +12,11 @@ In this project Gesture based Desktop automation ,First the model is trained pre
 This model uses the integrated webcam to capture the video frame.
 The image of the gesture captured in the video frame is compared with  the Pre-trained model and the gesture is identified.
 If the gesture predictes is 1 then images is blurred;2, image is resized;3,image is rotated etc.
+
+
+### SOLUTION ARCHITECTURE
+![image](https://user-images.githubusercontent.com/69431196/202851549-6a6a5911-c316-45e0-9635-4ed1eec197e3.png)
+
 
 ### TEAM DETAILS 
 
