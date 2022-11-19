@@ -40,5 +40,11 @@ HEMALATHA J
 
  DATASET LINK https://drive.google.com/drive/folders/1aYSdlh3TG8u_Mj7GME9dZMkBeWNAbMKK?usp=sharing
  
- ### OUPUT SCREENSHOTS
+ ### SCREENSHOTS
+ ![image](https://user-images.githubusercontent.com/69431196/202852754-c97af786-dda0-42b4-af8f-005222858aff.png)
+![image](https://user-images.githubusercontent.com/69431196/202852766-e6fae6e7-6f40-4941-8a57-4d43479df06c.png)
+![image](https://user-images.githubusercontent.com/69431196/202852791-34209960-02ee-4159-adde-f4c4d889f339.png)
+
+![image](https://user-images.githubusercontent.com/69431196/202852786-755895a8-7698-42a2-9c7f-986cbe7a5583.png)
+
 
